@@ -1,0 +1,63 @@
+\begin{table}[H]
+	\caption{\leftline{Datasets.}}
+	\label{Tab03}
+	\resizebox{\textwidth}{!}{%
+		\begin{tabular}{@{}llllllllllll@{}}
+			\toprule
+			Datasets	& Instances	 & Features	 	& Datasets	& Instances	 & Features		& Datasets	& Instances	 & Features	& Datasets	& Instances	 & Features   \\
+			\midrule
+			
+			DLTS \tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/ferdinandbaidoo/drivers-license-test-scores-data}}}	& 0.5k & 16 	
+			& VE	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/cloudymts/vulnerability-exploitability-dataset}}}	& 5k	& 12
+			& CKFDR	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/marcklugerhart/chronic-kidney-failure-dataset-reboot}}}	& 15k	& 20
+			& MA  \tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://tianchi.aliyun.com/dataset/96090?spm=a2c22.28136470.0.0.72214a0aFb9Y4Q&from=search-list}}}	& 47k	&1000 	\\
+			
+			Log	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/nilesh2042/log-csv}}}	& 1k	& 10 
+			& ABT	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/teocalvo/analytical-base-table-churn}}}	& 5.4k	& 42
+			& PD	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://hf-mirror.com/datasets/mstz/pol/tree/main}}}	& 15k	& 48
+			& Electronic	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://hf-mirror.com/datasets?task_categories=task_categories:tabular-classification&p=4&sort=trending}}}	& 50k	& 8	\\
+			
+			FD	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://tianchi.aliyun.com/dataset/169527}}}	& 2.5k	& 16 
+			& TwoNorm	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://hf-mirror.com/datasets/mstz/twonorm/tree/main}}}	& 7k	& 20 
+			& PH	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/jesusdeleon19/prediabetes-and-health-dataset}}}	& 16k	& 15
+			& EPR	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/yasin328000/electronic-police-report-2024}}}	& 62k	& 17	\\
+			
+			Diabetes	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset}}}	& 3k	& 8
+			& CW	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/aaronisomaisom3/canine-wellness-dataset-synthetic-10k-samples}}}	& 9.6k	& 20
+			& BCS	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://tianchi.aliyun.com/dataset/163247}}}	& 20k	& 21
+			& DR	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/smayanj/diabetes-risk-dataset}}}	& 100k	& 6 	\\
+			
+			TS	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/lakshmijetty/traffic-speed-data}}}	& 3.5k	& 6
+			& ASDRC	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/adhamebrahem/ai-person-risk-classification-dataset}}}	& 10k	& 17
+			& SD	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/smayanj/spam-detection-dataset}}}	& 20k	& 5
+			& ET	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/jacopoferretti/expedia-travel-dataset}}}	& 100k	&23 	\\
+			
+			AP 	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/zeesolver/apple-quality}}} & 4k	& 8 
+			& BCCP 	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset}}}		& 10k	& 13	
+			& H16	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://hf-mirror.com/datasets/mstz/house16/tree/main}}}		& 22k	& 16	
+			& Higgs	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://hf-mirror.com/datasets/mstz/higgs/tree/main}}}		& 100k	& 28	\\
+			
+			SEC	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://tianchi.aliyun.com/dataset/92823?spm=a2c22.28136470.0.0.68204a0aBcDefQ&from=search-list}}}		& 4k	& 57	
+			& ET	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/cloudymts/ecommerce-transaction-dataset}}}		& 10k	& 7	
+			& AIP	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/kedhareswernaidu/adult-income-data-processed}}}		& 30k	& 96	
+			& Readmission	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://hf-mirror.com/datasets/imodels/diabetes-readmission/tree/main}}}		& 100k	& 150	\\
+			
+			LAP	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset}}}		& 4.2k	& 11	
+			& Heloc	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://hf-mirror.com/datasets/mstz/heloc/tree/main}}}		& 10k	& 23	
+			& DCCC	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients}}}		& 30k	& 23	
+			& Telecom	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://tianchi.aliyun.com/dataset/132833}}}	& 150k	& 38	\\
+			
+			CD	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/talhaanjum0/car-details}}}		& 4.3k	& 7 	
+			& ES	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://tianchi.aliyun.com/dataset/152940}}}		& 12k	& 10	
+			& BDC	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://tianchi.aliyun.com/dataset/92775?spm=a2c22.28136470.0.0.68204a0aBcDefQ&from=search-list}}}		& 32k	& 15	
+			& CCFD	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/gzdekzlkaya/credit-card-fraud-detection-dataset}}}		& 280k	& 30	\\
+			
+			RR	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://hf-mirror.com/datasets/imodels/compas-recidivism}}}		& 5k	& 20 	
+			& OCI	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/adilshamim8/online}}}		& 12k	& 17	
+			& LP	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/mihrayildiz/loan-pedictor-dtset}}}		& 40k	& 13	
+			& CCFP	\tablefootnote{\scriptsize \textcolor[rgb]{0.00,0.07,1.00}{\url{https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction}}}		& 550k	& 21	\\
+			
+			\bottomrule
+		\end{tabular}
+	}
+\end{table}
