@@ -1,1 +1,1 @@
-# Experimental data for GHEC-guidelines are presented below. The corresponding code will be made publicly available after manuscript acceptance.
+# The experimental data, dataset sources, and code are all sourced from "Heterogeneous Ensemble for Tabular Binary Classification: Empirical Regularities of Scale and Combination."
